@@ -1,12 +1,3 @@
-
-# Give example of all 3 questions in Linked in description
-#Linked in post write that we will run this using llama3, running locally using ollama
-# Write in linked in write up that how important it is to have correct placement of architecteral component of adaptib=ve RAG, this can then be simpley translated into working code using langgraph
-# Commit to git
-
-# Remove this section
-
-
 ######################################################################
 # Imports
 ######################################################################
